@@ -1,0 +1,19 @@
+{
+  "name": "twitchchatbot",
+  "version": "1.0.0",
+  "description": "chatbot for twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsh-harv/twitchChatBot.git"
+  },
+  "author": "Harvey Marshall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsh-harv/twitchChatBot/issues"
+  },
+  "homepage": "https://github.com/marsh-harv/twitchChatBot#readme"
+}
