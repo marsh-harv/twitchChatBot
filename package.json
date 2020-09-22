@@ -2,8 +2,9 @@
   "name": "twitchchatbot",
   "version": "1.0.0",
   "description": "chatbot for twitch",
-  "main": "index.js",
+  "main": "src",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/marsh-harv/twitchChatBot/issues"
   },
-  "homepage": "https://github.com/marsh-harv/twitchChatBot#readme"
+  "homepage": "https://github.com/marsh-harv/twitchChatBot#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.5.0"
+  }
 }
